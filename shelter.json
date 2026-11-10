@@ -1,0 +1,9 @@
+{
+    "shelter_name": "Last Hope",
+    "leader": "King Michael",
+    "survivors": 8,
+    "food": 40,
+    "water": 100,
+    "barricade_health": 1,
+    "radio_working": true
+}
